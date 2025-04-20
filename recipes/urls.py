@@ -4,7 +4,7 @@ from recipes.views import home
 from . import views
 
 
-#recipes:recipe
+#recipes:recipe->  app_name:name
 app_name = 'recipes'
 
 urlpatterns = [
